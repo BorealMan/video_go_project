@@ -2,6 +2,8 @@ package main
 
 import (
 	"log"
+
+	"github.com/borealman/video_go_project/internal/server"
 )
 
 func main() {
